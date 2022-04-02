@@ -11,6 +11,10 @@ yarn
 # serve with hot reload at localhost:8080
 yarn start
 ```
+## Screenshots
+
+![Home](./src/assets/images/screenshot-1.jpg?raw=true)
+![Settings](./src/assets/images/screenshot-2.jpg?raw=true)
 
 ## Features
 
