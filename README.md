@@ -11,6 +11,8 @@ yarn
 # serve with hot reload at localhost:8080
 yarn start
 ```
+The app should be running on:
+- <https://localhost:3000>
 ## Screenshots
 
 ![Home](./src/assets/images/screenshot-1.jpg?raw=true)
